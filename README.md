@@ -131,6 +131,9 @@ in your screenshots, you can set this to true.
 **v1.0** - 9/12/2020
 - Screenshot Snapper released for RPG Maker MZ!
 
+**v1.0.1** - 8/30/2023
+- This plugin is now free and open source under the [MIT license](https://opensource.org/license/mit/).
+
 ## Alternate Screenshot Method:
 
 **Tip:** You can get screenshots without this plugin, but the screenshots have
