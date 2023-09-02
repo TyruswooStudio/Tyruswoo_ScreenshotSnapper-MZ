@@ -16,8 +16,7 @@ and the screenshots are saved to a "screenshots" folder in your project.
       your project. (If the screenshots folder does not exist, it will be
       created when you snap your first screenshot.)
 
-============================================================================
-Filename structure:
+## Filename structure
 
 When you snap a new screenshot, it is saved in the Screenshots Folder you
 have chosen. The name of the file includes numbers representing the
@@ -134,7 +133,7 @@ in your screenshots, you can set this to true.
 **v1.0.1** - 8/30/2023
 - This plugin is now free and open source under the [MIT license](https://opensource.org/license/mit/).
 
-## Alternate Screenshot Method:
+## Alternate Screenshot Method
 
 **Tip:** You can get screenshots without this plugin, but the screenshots have
      several idiosyncracies and drawbacks.
