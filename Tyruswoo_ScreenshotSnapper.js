@@ -36,7 +36,7 @@ Tyruswoo.ScreenshotSnapper = Tyruswoo.ScreenshotSnapper || {};
 
 /*:
  * @target MZ
- * @plugindesc v1.0 Snap screenshots and save them to a folder! Great for showcasing your
+ * @plugindesc v1.0.1 Snap screenshots and save them to a folder! Great for showcasing your
  *             project, and players can save screenshots of favorite moments during gameplay!
  * @author Tyruswoo
  * @url https://www.tyruswoo.com
