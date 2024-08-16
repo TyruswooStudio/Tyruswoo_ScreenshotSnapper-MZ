@@ -153,7 +153,7 @@ Tyruswoo.ScreenshotSnapper = Tyruswoo.ScreenshotSnapper || {};
  *    screenshots look even better! However, if you want to see the menu button
  *    in your screenshots, you can set this to true.
  * ============================================================================
- * For more help using the Screenshot Snapper plugin, see Tyruswoo.com.
+ * Visit Tyruswoo.com to ask for help, donate, or browse more of our plugins.
  * ============================================================================
  * Version History:
  *
