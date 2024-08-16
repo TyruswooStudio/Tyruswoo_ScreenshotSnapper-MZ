@@ -123,7 +123,7 @@ the menu button is absent from the screenshot. This helps your
 screenshots look even better! However, if you want to see the menu button
 in your screenshots, you can set this to true.
 
-### For more help using the Screenshot Snapper plugin, see [Tyruswoo.com](https://www.tyruswoo.com).
+### Visit [**Tyruswoo.com**](https://www.tyruswoo.com) to [ask for help](https://www.tyruswoo.com/contact-us/), [donate](https://www.tyruswoo.com/donate/), or browse more of our [plugins](https://www.tyruswoo.com/downloads/rpg-maker-plugin-downloads/).
 
 ## Version History
 
